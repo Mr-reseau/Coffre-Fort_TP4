@@ -12,4 +12,3 @@ Implémentation d'un coffre-fort numérique avec :
 * Chiffrement symétrique AES-256 CBC
 * Gestion sécurisée des clés
 
-## 🛠️ Technologies utilisées
