@@ -1,2 +1,6 @@
 cle.key
 secret.enc
+
+__pycache__/
+*.py[codz]
+*$py.class
